@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-**You Can See The Project Live On:** [Here](https://natikozel.github.io/Pig-Game/)
+**You can see the project live on:** [Here](https://natikozel.github.io/Pig-Game/)
 
 ## Description
 
